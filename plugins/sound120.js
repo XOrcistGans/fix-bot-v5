@@ -6,10 +6,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow",
+    mediaUrl: "https://youtube.com/channel/UCWUQQiIXZlni9OF-kXtbNlA",
     mediaType: 2,
-    description: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow", 
-    title: 'whmods-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
+    description: "https://youtube.com/channel/UCWUQQiIXZlni9OF-kXtbNlA", 
+    title: '𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})

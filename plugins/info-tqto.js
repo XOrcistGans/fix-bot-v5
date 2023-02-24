@@ -9,4 +9,4 @@ ${linkgithub}
 EDIT DI CONFIG.JS
 */
 
-// full no enc 47k minat wa.me/6282127487538
+// full no enc 47k minat wa.me/6283149798467

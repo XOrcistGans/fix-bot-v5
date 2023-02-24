@@ -2,4 +2,4 @@ function _0x5b27(){const _0x5a8a0b=['mJu3mdq5mfnivLzxuG','ieTHAYa6pIa','CMvZAxPL
 
 
 
-// full no enc 47k minat wa.me/6282127487538
+// full no enc 47k minat wa.me/6283149798467

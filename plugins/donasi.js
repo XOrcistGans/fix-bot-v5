@@ -34,4 +34,4 @@ handler.command = /^dona(te|si)$/i
 
 export default handler
 
-// WH MODS DEV
+// 𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬 - 𝐁𝐎𝐓
